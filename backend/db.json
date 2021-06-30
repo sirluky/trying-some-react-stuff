@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Json", "author": "javascript" },
+    { "id": 2, "title": "ALukas je nej", "author": "BKarel" },
+    { "id": 3, "title": "React je sracka", "author": "Ten kdo ho neumi..." },
+    { "id": 4, "title": "Random row", "author": "random" }
+  ],
+  "profile": { "name": "Lukas" }
+}
